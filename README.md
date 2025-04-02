@@ -73,8 +73,9 @@ setSearchHistory((prevHistory) => {
 ## 📸 Screenshots
 
 ```markdown
-![Search Feature](./assets/screenshot-1.png)
-![Weather Display](./assets/screenshot-2.png)
+![Weather Display](./assets/Screen Shot 2025-04-02 at 00.31.15 AM.png)
+![Search Feature](./assets/Screen Shot 2025-04-02 at 00.31.54 AM.png)
+![Search History](./assets/Screen Shot 2025-04-02 at 00.31.54 AM.png)
 ```
 
 ---
