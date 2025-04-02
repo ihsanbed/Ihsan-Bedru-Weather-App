@@ -72,11 +72,15 @@ setSearchHistory((prevHistory) => {
 
 ## 📸 Screenshots
 
-```markdown
-![Weather Display](./assets/Screen Shot 2025-04-02 at 00.31.15 AM.png)
-![Search Feature](./assets/Screen Shot 2025-04-02 at 00.31.54 AM.png)
-![Search History](./assets/Screen Shot 2025-04-02 at 00.31.54 AM.png)
-```
+### 🌤️ Weather Display
+![Weather Display](./assets/Screen%20Shot%202025-04-02%20at%2000.31.15%20AM.png)
+
+### 🔍 Search Feature
+![Search Feature](./assets/Screen%20Shot%202025-04-02%20at%2000.31.54%20AM.png)
+
+### 🕘 Search History
+![Search History](./assets/Screen%20Shot%202025-04-02%20at%2000.31.54%20AM.png)
+
 
 ---
 
