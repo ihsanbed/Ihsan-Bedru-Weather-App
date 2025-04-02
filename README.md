@@ -76,10 +76,10 @@ setSearchHistory((prevHistory) => {
 ![Weather Display](./src/assets/weather-display.png)
 
 ### 🔍 Search Feature
-![Search Feature](./src/assets/Screen%20Shot%202025-04-02%20at%2000.31.54%20AM.png)
+![Search Feature](./src/assets/search-feature.png)
 
 ### 🕘 Search History
-![Search History](./src/assets/Screen%20Shot%202025-04-02%20at%2000.31.54%20AM.png)
+![Search History](./src/assets/search-history.png)
 
 
 ---
