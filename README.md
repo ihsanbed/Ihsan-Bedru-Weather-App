@@ -70,47 +70,6 @@ setSearchHistory((prevHistory) => {
 
 ---
 
-## 🛠️ Getting Started
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/ihsanbed/weather-app.git
-cd weather-app
-```
-
-### 2. Install Dependencies
-
-```bash
-npm install
-```
-
-### 3. Create `.env` File
-
-In the root of your project:
-
-```bash
-touch .env
-```
-
-Inside `.env`:
-
-```env
-VITE_APP_ID=your_openweathermap_api_key_here
-```
-
-> You can get your API key from: https://openweathermap.org/api
-
-### 4. Run the App
-
-```bash
-npm run dev
-```
-
-Visit [http://localhost:5173](http://localhost:5173) to see it live!
-
----
-
 ## 📸 Screenshots
 
 > You can replace these with your own screenshots later
@@ -139,19 +98,6 @@ Coming soon — deploy the app to Netlify, Vercel, or GitHub Pages and paste the
 ## 📄 License
 
 This project is licensed under the **MIT License** — free to use, modify, and distribute.
-
----
-
-## 💡 Future Improvements
-
-- 🌡️ Toggle between Fahrenheit and Celsius
-- 🌍 Auto-detect user location (geolocation support)
-- 🗺️ Weather maps integration
-- 💾 Persistent search history via localStorage
-- 🔔 Error toast notifications instead of alerts
-- 🌐 Internationalization (multi-language support)
-- 🌙 Dark mode toggle
-- 🧠 AI-powered weather recommendations 😉
 
 ---
 
