@@ -72,18 +72,10 @@ setSearchHistory((prevHistory) => {
 
 ## 📸 Screenshots
 
-> You can replace these with your own screenshots later
-
 ```markdown
 ![Search Feature](./assets/screenshot-1.png)
 ![Weather Display](./assets/screenshot-2.png)
 ```
-
----
-
-## 🌐 Live Demo
-
-Coming soon — deploy the app to Netlify, Vercel, or GitHub Pages and paste the link here.
 
 ---
 
