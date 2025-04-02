@@ -56,10 +56,6 @@ const Weather = () => {
           setWeatherData(false);
         }
       };
-      
-    useEffect(()=>{
-        search("Australia");
-    }, [])
 
     return (
         <div className='weather'>
